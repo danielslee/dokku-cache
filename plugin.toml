@@ -1,0 +1,4 @@
+[plugin]
+description = "Dokku plugin for clearing the build cache"
+version = "0.1.0"
+[plugin.config]
